@@ -560,7 +560,7 @@ em procura livre na internet.. Enjoy !![/COLOR]
 	</extension>
 </addon>
 
-<addon id="repository.tvban" name="[B][COLOR white]Repo[/COLOR] [COLOR dodgerblue]TVBAN[/COLOR][/B]" version="3.0.0" provider-name="[COLOR green]tvban[/COLOR]">
+<addon id="repository.tvban" name="[B][COLOR white]Repo[/COLOR] [COLOR dodgerblue]TVBAN[/COLOR][/B]" version="2.0.1" provider-name="[COLOR green]tvban[/COLOR]">
        <extension point="xbmc.addon.repository" name="Repo TVBAN">
               <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
               <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
@@ -574,7 +574,7 @@ em procura livre na internet.. Enjoy !![/COLOR]
        </extension>
 </addon>
 
-<addon id="resource.gtking" name="[COLOR dodgerblue]GTKing[/COLOR] [COLOR green]WIZARD[/COLOR]" version="3.1.3" provider-name="Manu, Josa, David y Sugea">
+<addon id="resource.gtking" name="[COLOR dodgerblue]GTKing[/COLOR] [COLOR green]WIZARD[/COLOR]" version="2.1.2" provider-name="Manu, Josa, David y Sugea">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

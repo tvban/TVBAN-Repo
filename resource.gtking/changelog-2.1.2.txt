@@ -1,0 +1,6 @@
+[B]Version 2.1.2[/B]
+Actualizado GTKing Prime 
+
+[B]Version 2.0[/B]
+Primera versión de Build GTKing Prime
+
