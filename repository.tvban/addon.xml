@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tvban" name="[B][COLOR white]Repo[/COLOR] [COLOR dodgerblue]TVBAN[/COLOR][/B]" version="2.0.1" provider-name="[COLOR green]tvban[/COLOR]">
+<addon id="repository.tvban" name="[B]Repo [COLOR limegreen]TVBAN[/COLOR][/B]" version="2.8.0" provider-name="tvban">
        <extension point="xbmc.addon.repository" name="Repo TVBAN">
               <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
               <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
               <datadir zip="true">https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/</datadir>
        </extension>
        <extension point="xbmc.addon.metadata">
-              <summary>[COLOR dodgerblue]TVBAN[/COLOR] [COLOR white]Repo[/COLOR]</summary>
-              <description lang="es">Repositorio de addons [COLOR dodgerblue]TVBAN[/COLOR]</description>
+              <summary>[COLOR limegreen]TVBAN[/COLOR] [COLOR white]Repo[/COLOR]</summary>
+              <description lang="es">Repositorio de addons [COLOR limegreen]TVBAN[/COLOR]</description>
               <disclaimer></disclaimer>
               <platform>all</platform>
        </extension>
