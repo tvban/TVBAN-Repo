@@ -507,6 +507,20 @@ em procura livre na internet.. Enjoy !![/COLOR]
 	</extension>
 </addon>
 
+<addon id="repository.repotvban" name="[B]TVBAN [COLOR dodgerblue]Repo[/COLOR][/B]" version="2.8.0" provider-name="tvban">
+       <extension point="xbmc.addon.repository" name="TVBAN Repo">
+              <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
+              <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
+              <datadir zip="true">https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/</datadir>
+       </extension>
+       <extension point="xbmc.addon.metadata">
+              <summary>TVBAN [COLOR dodgerblue]Repo[/COLOR]</summary>
+              <description lang="es">Repositorio de addons [COLOR dodgerblue]TVBAN[/COLOR]</description>
+              <disclaimer></disclaimer>
+              <platform>all</platform>
+       </extension>
+</addon>
+
 <addon id="repository.thecrew" name="[COLOR orchid]THE CREW REPO[/COLOR]" provider-name="The Crew" version="0.3.1">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
@@ -558,20 +572,6 @@ em procura livre na internet.. Enjoy !![/COLOR]
 			<screenshot>resources/art/ss/3.png</screenshot>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="repository.tvban" name="[B]TVBAN [COLOR dodgerblue]Repo[/COLOR][/B]" version="2.8.0" provider-name="tvban">
-       <extension point="xbmc.addon.repository" name="TVBAN Repo">
-              <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
-              <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
-              <datadir zip="true">https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/</datadir>
-       </extension>
-       <extension point="xbmc.addon.metadata">
-              <summary>TVBAN [COLOR dodgerblue]Repo[/COLOR]</summary>
-              <description lang="es">Repositorio de addons [COLOR dodgerblue]TVBAN[/COLOR]</description>
-              <disclaimer></disclaimer>
-              <platform>all</platform>
-       </extension>
 </addon>
 
 <addon id="resource.gtking" name="[COLOR dodgerblue]GTKing[/COLOR] [COLOR green]WIZARD[/COLOR]" version="2.1.2" provider-name="Manu, Josa, David y Sugea">
