@@ -560,15 +560,15 @@ em procura livre na internet.. Enjoy !![/COLOR]
 	</extension>
 </addon>
 
-<addon id="repository.tvban" name="[B]Repo [COLOR limegreen]TVBAN[/COLOR][/B]" version="2.8.0" provider-name="tvban">
-       <extension point="xbmc.addon.repository" name="Repo TVBAN">
+<addon id="repository.tvban" name="[B]TVBAN [COLOR dodgerblue]Repo[/COLOR][/B]" version="2.8.0" provider-name="tvban">
+       <extension point="xbmc.addon.repository" name="TVBAN Repo">
               <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
               <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
               <datadir zip="true">https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/</datadir>
        </extension>
        <extension point="xbmc.addon.metadata">
-              <summary>[COLOR limegreen]TVBAN[/COLOR] [COLOR white]Repo[/COLOR]</summary>
-              <description lang="es">Repositorio de addons [COLOR limegreen]TVBAN[/COLOR]</description>
+              <summary>TVBAN [COLOR dodgerblue]Repo[/COLOR]</summary>
+              <description lang="es">Repositorio de addons [COLOR dodgerblue]TVBAN[/COLOR]</description>
               <disclaimer></disclaimer>
               <platform>all</platform>
        </extension>
