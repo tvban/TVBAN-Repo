@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repotvban" name="[B]TVBAN [COLOR dodgerblue]Repo[/COLOR][/B]" version="3.8.0" provider-name="tvban">
+<addon id="repository.repotvban" name="[B]TVBAN [COLOR dodgerblue]Repo[/COLOR][/B]" version="4.8.0" provider-name="tvban">
        <extension point="xbmc.addon.repository" name="TVBAN Repo">
               <info>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml</info>
               <checksum>https://raw.githubusercontent.com/tvban/TVBAN-Repo/master/addons.xml.md5</checksum>
