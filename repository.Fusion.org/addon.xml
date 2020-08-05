@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Fusion.org" name="Fusion.org" version="1.3" provider-name="Fusion Org">
+    <extension point="xbmc.addon.repository" name="Fusion.org">
+		<info>https://repositorio.fusionorg.net/addons.xml</info>
+		<checksum>https://repositorio.fusionorg.net/addons.xml.md5</checksum>
+		<datadir zip="true">https://repositorio.fusionorg.net/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio para Fusion.Org</summary>
+        <description>Kodi Repository for Fusion.Org</description>
+        <disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+

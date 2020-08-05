@@ -1,0 +1,8 @@
+[B]Version 1.2[/B]
+- change domain to fusionorg.net
+
+[B]Version 1.1[/B]
+- change domain to fusion-addon.ml
+
+[B]Version 1.0[/B]
+- Initial version
