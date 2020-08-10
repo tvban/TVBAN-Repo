@@ -63,10 +63,10 @@ v2.3.14 (2019-02-10)
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">TVBAN [COLOR limegreen]WIZARD[/COLOR]</summary>
-    <description lang="en">Build TVBAN para Kodi 18
+    <summary lang="en">TVBAN [COLOR dodgerblue]WIZARD[/COLOR]</summary>
+    <description lang="en">BUILD aura-tvban para Kodi 18
 Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
-<news>- Build [COLOR limegreen]TVBAN[/COLOR] Prime
+<news>- BUILD [COLOR limegreen]aura-tvban[/COLOR]
 - Mejoras en buffer.
 - Mejoras de aspectos.
 - Añadido addon MediaExplorer para visionado de contenido.
