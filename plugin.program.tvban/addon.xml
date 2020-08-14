@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8" provider-name="tvban">
+<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8.1" provider-name="tvban">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -13,11 +13,9 @@
 Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
 <news>- BUILD [COLOR limegreen]aura-tvban[/COLOR] 
 - Mejoras en buffer. 
-- Mejoras de aspectos. 
-- Añadido addon MediaExplorer para visionado de contenido.
+- Cambio color de springgreen a dodgerblue
 - Incluido Forzar Cierre en menú de apagado.
-- Nuevos iconos en Videoteca.
-- Test de Velolcidad
+- Test de Velolcidad.
  </news>
     <platform>all</platform>
   </extension>
