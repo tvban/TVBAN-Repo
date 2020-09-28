@@ -54,6 +54,33 @@ v2.3.14 (2019-02-10)
   </extension>
 </addon>
 
+<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8.6" provider-name="tvban">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TVBAN [COLOR dodgerblue]WIZARD[/COLOR]</summary>
+    <description lang="en">BUILD aura-tvban para Kodi 18
+Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
+<news>- BUILD [COLOR limegreen]aura-tvban[/COLOR]
+- Mejoras en buffer.
+- Cambio color de springgreen a dodgerblue.
+- Incluido Forzar Cierre en menú de apagado.
+- Test de Velolcidad.
+
+  [COLOR gold]28/09/2020[/COLOR]
+ - Editado texto parche
+ - Corregido textos.
+
+ </news>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8.5" provider-name="tvban">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
