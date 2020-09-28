@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8.7" provider-name="tvban">
+<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.8.5" provider-name="tvban">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -16,11 +16,6 @@ Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
 - Cambio color de springgreen a dodgerblue.
 - Incluido Forzar Cierre en menú de apagado.
 - Test de Velolcidad.
-
-  [COLOR gold]28/09/2020[/COLOR]
- - Editado texto parche
- - Corregido textos.
-  
  </news>
     <platform>all</platform>
   </extension>
