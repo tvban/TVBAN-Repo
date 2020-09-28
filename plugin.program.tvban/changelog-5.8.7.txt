@@ -1,5 +1,5 @@
-v5.8.6
-- Corrección de textos.
+v5.8.7
+- Correción de textos.
 - Cambio de modo del Parche.
 
 v3.8.0 (3/08/20)
