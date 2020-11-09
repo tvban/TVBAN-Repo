@@ -1,4 +1,4 @@
-# RepoTVBAN   ![img](https://imgur.com/krVnZrI)                                                                                                                  
+# RepoTVBAN   ![img](https://i.imgur.com/krVnZrI.png)                                                                                                                  
                                                                                                                      
 Tu **RepoTVBAN** para Kodi
 **Repo**<span style="color:blue">**-GTking**</span> con lleva al addons **GTKing WIZARD.**
