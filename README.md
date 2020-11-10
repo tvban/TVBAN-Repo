@@ -1,4 +1,4 @@
-  ![img](https://i.imgur.com/krVnZrI.png) https://vimeo.com/477754093                                                                                                                 
+  ![img](https://i.imgur.com/krVnZrI.png) [youtube]https://vimeo.com/477754093[/youtube]                                                                                                               
                                                                                                                      
 Tu **RepoTVBAN** para Kodi
 **Repo**<span style="color:blue">**-GTking**</span> con lleva al addons **GTKing WIZARD.**
