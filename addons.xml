@@ -54,7 +54,7 @@ v2.3.14 (2019-02-10)
   </extension>
 </addon>
 
-<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.9.0" provider-name="tvban">
+<addon id="plugin.program.tvban" name="TVBAN [COLOR dodgerblue]WIZARD[/COLOR]" version="5.9.1" provider-name="tvban">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -67,11 +67,13 @@ v2.3.14 (2019-02-10)
     <description lang="en">BUILD aura-tvban para Kodi 18
 Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
 <news>- BUILD [COLOR limegreen]aura-tvban[/COLOR]
+14/12/2020
+- Editado Instalar / ActualiZar
+- Editado Notificación .
+
 07/11/2020
 - Añadido Elementum All-One v1.59
-
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Mejoras en buffer.
 - Cambio color de springgreen a dodgerblue.
 - Incluido Forzar Cierre en menú de apagado.
